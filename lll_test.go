@@ -6,7 +6,7 @@ import (
 	"regexp"
 	"testing"
 
-	"github.com/walle/lll"
+	"github.com/JeanMertz/lll"
 )
 
 func TestShouldSkipDirs(t *testing.T) {

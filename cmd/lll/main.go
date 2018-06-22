@@ -9,7 +9,7 @@ import (
 
 	"github.com/alexflint/go-arg"
 
-	"github.com/walle/lll"
+	"github.com/JeanMertz/lll"
 )
 
 var args struct {
